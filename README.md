@@ -1,4 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+This is a simple Drag-n-Drop ReactJS app.
+This project is inspired by [@rajeshpillai](https://github.com/rajeshpillai/youtube-react-components) and it is a by modified by myself.
+
+## Credits
+Full credits goes to [@rajeshpillai](https://github.com/rajeshpillai/youtube-react-components)
 
 ## Available Scripts
 
